@@ -23,8 +23,8 @@ git log --oneline
 
 ### 3. GITHUB — CLONE & PUSH
 ```bash
-git clone <GitHub-URL>
-cd <repository-name>
+git clone GitHub-URL
+cd repository-name
 git status
 echo "# Git Demo Project" > README.md
 git add README.md
